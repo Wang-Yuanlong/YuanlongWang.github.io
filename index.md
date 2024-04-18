@@ -14,6 +14,3 @@ I am a Ph.D. student at the Department of Computer Science and Engineering, The 
 ## News
 
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
