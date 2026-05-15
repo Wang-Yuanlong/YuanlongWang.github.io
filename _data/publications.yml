@@ -61,7 +61,7 @@ main:
     conference: "Heliyon, 10(5), e26772, 2024"
     pdf: "https://doi.org/10.1016/j.heliyon.2024.e26772"
     code: "https://github.com/Wang-Yuanlong/MultimodalPred"
-    image: "./assets/img/teaser_multimodalpred.png"
+    image: "./assets/img/teaser_multimodalpred.jpg"
 
   - title: "Predictive Modeling with Temporal Graphical Representation on Electronic Health Records"
     authors: "Jiayuan Chen, Changchang Yin, <strong>Yuanlong Wang</strong>, Ping Zhang"
