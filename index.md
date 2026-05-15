@@ -4,13 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. Ping Zhang in AIMed (Artificial Intelligence in Medicine) Lab. 
+I am a Ph.D. student in the Department of Computer Science and Engineering at The Ohio State University. I am fortunate to work with Prof. Ping Zhang in the AIMed (Artificial Intelligence in Medicine) Lab.
 
 ## Research Interests
 
-- **Machine Learning**
+- **Artificial Intelligence**
+- **AI in Healthcare**
 - **Data Mining**
+- **Machine Learning**
+- **Computational Pathology**
 
-## News
+{% include_relative _includes/publications.md %}
 
-
+{% include_relative _includes/services.md %}
